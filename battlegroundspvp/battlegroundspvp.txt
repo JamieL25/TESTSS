@@ -1,0 +1,10 @@
+"battlegroundspvp"
+{
+    "base"      "base"
+    "title"     "BattleGrounds [PvP]"
+    "author"    "JamieL"
+    "contact"   ""
+    "help"      "BattleGrounds PvP Gamemode."
+    "icon"      "icon.png"
+    "version"   "1.0"
+}

@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+    "name"    "Player Model Vendor"
+    "version" "1.0"
+    "up_date" "2025-05-08"
+    "author"  "Your Name"
+    "info"    "A custom NPC vendor for purchasing player models"
+    "file"    "lua/autorun/init.lua"
+}
